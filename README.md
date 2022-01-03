@@ -31,7 +31,7 @@ By combining two models with different training dataset
 6. Test the result by using raw mango image from data\test
 
 ## Result
-Order from left to right: raw, after DeblurGAN, after ESRGAN
+Order from left to right: raw image, after DeblurGAN, after ESRGAN
 
 ![image](https://user-images.githubusercontent.com/56544982/143666901-d528c66e-d979-45f9-aa3d-0366fb065f93.png)
 
