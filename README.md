@@ -16,7 +16,7 @@ By combining two models with different training dataset
 ## Requirement
 1. Python
 2. Opencv
-3. Please refer to the readme of the following URL:
+3. Please refer to the README of the following URL:
 <br> - https://github.com/KupynOrest/DeblurGAN
 <br> - https://github.com/xinntao/ESRGAN
 
