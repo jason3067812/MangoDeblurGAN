@@ -22,7 +22,6 @@ By combining two models with different training dataset
 
 
 ## Step
-
 1. Clear mango is in data\train\clear
 2. Run image_blurring.ipynb to generate motion-blurred mango from clear mango, and put it into data\train\motionblur
 3. Train DeblurGAN with motion blurred mango and clear mango
